@@ -76,7 +76,7 @@ footer {
   width: 90%;
   background-color: #EEE;
   padding: 10px;
-  margin: 20px;
+  margin: 20px auto;
   }
 
   .box:last-child {
